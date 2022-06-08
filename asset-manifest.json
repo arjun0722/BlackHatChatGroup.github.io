@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BlackHatChatGroup/static/css/main.3ab74f2e.chunk.css",
+    "main.js": "/BlackHatChatGroup/static/js/main.29ee09fd.chunk.js",
+    "main.js.map": "/BlackHatChatGroup/static/js/main.29ee09fd.chunk.js.map",
+    "runtime-main.js": "/BlackHatChatGroup/static/js/runtime-main.3bbeaf56.js",
+    "runtime-main.js.map": "/BlackHatChatGroup/static/js/runtime-main.3bbeaf56.js.map",
+    "static/js/2.a24711ed.chunk.js": "/BlackHatChatGroup/static/js/2.a24711ed.chunk.js",
+    "static/js/2.a24711ed.chunk.js.map": "/BlackHatChatGroup/static/js/2.a24711ed.chunk.js.map",
+    "static/js/3.5aa95d2c.chunk.js": "/BlackHatChatGroup/static/js/3.5aa95d2c.chunk.js",
+    "static/js/3.5aa95d2c.chunk.js.map": "/BlackHatChatGroup/static/js/3.5aa95d2c.chunk.js.map",
+    "index.html": "/BlackHatChatGroup/index.html",
+    "static/css/main.3ab74f2e.chunk.css.map": "/BlackHatChatGroup/static/css/main.3ab74f2e.chunk.css.map",
+    "static/js/2.a24711ed.chunk.js.LICENSE.txt": "/BlackHatChatGroup/static/js/2.a24711ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bbeaf56.js",
+    "static/js/2.a24711ed.chunk.js",
+    "static/css/main.3ab74f2e.chunk.css",
+    "static/js/main.29ee09fd.chunk.js"
+  ]
+}
